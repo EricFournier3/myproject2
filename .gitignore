@@ -1,0 +1,8 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+Now all .log files and anything in temp folders will be ignored by Git.
+
